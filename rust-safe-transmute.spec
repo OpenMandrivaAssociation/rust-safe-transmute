@@ -5,8 +5,8 @@
 %global crate safe-transmute
 
 Name:           rust-%{crate}
-Version:        0.10.1
-Release:        3%{?dist}
+Version:        0.11.3
+Release:        1%{?dist}
 Summary:        Safeguarded transmute() for Rust
 
 License:        MIT
